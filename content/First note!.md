@@ -28,6 +28,9 @@ Let's try this again! Last publish seemed to have failed with the following mess
 ```
 If this succeeds, the site should be available at: https://mingdom.github.io/mingdom-capital/
 
+### 13:48
+Test again!
+
 ---
 ### Reference
 - [Quartz: Authoring Content](https://quartz.jzhao.xyz/authoring-content)
