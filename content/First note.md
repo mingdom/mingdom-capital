@@ -3,7 +3,6 @@ tags:
   - random
   - quartz
 title: First note!
-draft: "false"
 date: 2024-02-12
 ---
 ## 2024.02.12
