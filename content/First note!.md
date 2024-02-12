@@ -3,9 +3,10 @@ tags:
   - random
   - quartz
 title: First note!
-draft: "true"
+draft: "false"
+date: 2024-02-12
 ---
-## 2024/02/12
+## 2024.02.12
 ### 13:14
 Let's try Obsidian publish with Quartz!
 - [x] Once I finish writing this
@@ -31,6 +32,13 @@ If this succeeds, the site should be available at: https://mingdom.github.io/min
 ### 13:48
 Test again!
 
+### 14:44
+Finally got it to work. Needed an index.md file, which was mentioned in the first paragraph of [Quartz: Authoring Content](https://quartz.jzhao.xyz/authoring-content).
+
+Next up...
+- [ ] Styling it with https://quartz.jzhao.xyz/configuration#general-configuration
+
 ---
 ### Reference
 - [Quartz: Authoring Content](https://quartz.jzhao.xyz/authoring-content)
+- https://quartz.jzhao.xyz/configuration#general-configuration
