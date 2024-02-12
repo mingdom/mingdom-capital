@@ -1,7 +1,7 @@
 ---
 tags:
-  - mingdom-publish
   - random
+  - quartz
 title: First note!
 draft: "true"
 ---
